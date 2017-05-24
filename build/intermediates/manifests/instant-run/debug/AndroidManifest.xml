@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ican.com.hotel3"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyTheme" >
+        <activity android:name="ican.com.hotel3.ui.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="ican.com.hotel3.ui.CycleActivty" />
+        <activity android:name="ican.com.hotel3.ui.MainActivity" />
+        <activity android:name="ican.com.hotel3.ui.RegisterAcitvity" />
+        <activity android:name="ican.com.hotel3.ui.PersonalActivity" />
+        <activity android:name="ican.com.hotel3.ui.InformationActivity" />
+        <activity android:name="ican.com.hotel3.ui.CardActivity" />
+        <activity android:name="ican.com.hotel3.ui.ModiypwdActivity" />
+        <activity android:name="ican.com.hotel3.ui.HouseInfoActivity" />
+        <activity android:name="ican.com.hotel3.ui.ReserveActivity" />
+        <activity android:name="ican.com.hotel3.ui.QueryRoomActivity" />
+        <activity android:name="ican.com.hotel3.ui.RoomsActivity" />
+        <activity android:name="ican.com.hotel3.ui.NativePayActivity" />
+    </application>
+
+</manifest>

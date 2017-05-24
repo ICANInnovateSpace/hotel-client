@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="plantes">
+        <item>无限制</item>
+        <item>单人房</item>
+        <item>双人房</item>
+        <item>家庭房</item>
+    </string-array>
+
+</resources>

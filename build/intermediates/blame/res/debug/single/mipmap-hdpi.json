@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/mrzhou/Desktop/temp/hotel1/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

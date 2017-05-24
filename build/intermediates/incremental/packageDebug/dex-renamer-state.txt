@@ -1,0 +1,7 @@
+#Wed May 24 16:42:27 CST 2017
+base.0=/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_430c53ba1e8e64e3f8416e5a3e4e37ec7f1f6e45
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cc5d7bf49c0ebff296329356f2c8e87ee601b4d8/classes.dex
+base.1=/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cc5d7bf49c0ebff296329356f2c8e87ee601b4d8
+file.0=/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_430c53ba1e8e64e3f8416e5a3e4e37ec7f1f6e45/classes.dex

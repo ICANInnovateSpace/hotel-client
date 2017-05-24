@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.2-SNAPSHOT-with-sources_c86fe1667e9ab5fa27e2ba83a85165113632f364/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_33bf59e96d6e4df9c9556727ea3adc5cf5e5f647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_15cfc0b4dfa60c7441a2abbef178b72c97e9d993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_177824d21df4df0b58040f1ae055191960cf7e77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_28a6118a5c4bf925ad71c91e97e7231fff3db8a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/libs/wxpay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fac5fed41c0c22a8ffde1282b06e49483222654f">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/2/wxpay_ec4ef6f9295ffab1398e4bbb8f78744e4d9c0335/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_0d68d1e2ea591993db88757cad597f5391857079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_1ba23f4ab2726481638d632656d6be77e0adbbda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_e0905bf70768c573f267f9ce6001bacf56f8e6f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/libs/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.2.1_5a22f9f4dbc547dace5bab33d8eba6f3ab673ccb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbaa81fe608693e84bf7951cb506ce6f79adad8b">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_430c53ba1e8e64e3f8416e5a3e4e37ec7f1f6e45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_e2bb42d1befdef57c062684df05ae80e7f43be45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ef94ce579c2cada94c9fb9146766ccbb75a4b2b">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_11b2857b5a5091e4c6bf7e8ffcbd6f48e74afe25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_5626bdce71f43bd150c5ff829b0ce0725f75540c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/libs/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.2.1_802266d00890797ed2dbedc3111a16e822566697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_4b1623cb6c0b70a1a60b21d8ca37cdcfb92714e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_06f97fcf75965d3bdaa4d9557a7a197564e35faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_1ecf3538bb3da46cb8c19aa48e91029716b384b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b5cc2fabcc767e40c11ecca5ee65410bae8482d">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_20cfed19d9fa66ab27aede3803864a97dfc9394e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63a038c5a762015420a5166f4655e250e9725ba3">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cc5d7bf49c0ebff296329356f2c8e87ee601b4d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_73251c2215e6b3051df820f4faffdebaa61c2763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.github.pwittchen/prefser/2.0.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7583b8bba0e70c09bdcdd1ba50d04be1bad0f67">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.pwittchen-prefser-2.0.6_757652f5a75b6234095d672c3c1172c9f0c4f5af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_52212d3499e4440c4917afc03e9c39187bd5bf4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/libs/dom4j-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/2/dom4j-1.6.1_27dc6ec17da460fa14694d4275993420f2befd1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.2-SNAPSHOT-with-sources_1a77904374670c672571a0073842035214821844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_b2b5c19f8490dc74e25c8de3079c1f21175c49e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_b4956047280ba6400b44edc8a75d1628436dec74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.github.pwittchen/prefser/2.0.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7583b8bba0e70c09bdcdd1ba50d04be1bad0f67">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.pwittchen-prefser-2.0.6_f713609cb19144e25f938f0429a089f7a0370670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_30fcf6df888f28c96f3e8fc22dac858a6295097f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.8/f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5/rxjava-1.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.8_081809c0a72d85c8c0aad73fea608380634b1cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/libs/dom4j-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/2/dom4j-1.6.1_026336f9d947a00c6485e0961b8c61bba6c72457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d8b910dd36ad7ccd59badde5042510d72b0215f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/libs/wxpay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fac5fed41c0c22a8ffde1282b06e49483222654f">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/2/wxpay_e06d4b0422bcb381354f5c878f4b2d992a28d981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_96062d222e294ea1c23c233cc24ca0da9f455bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/mrzhou/Desktop/temp/hotel1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_abd569ec9e902dd7a6f08f29931291937eaf4c58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_ddada317bc45ede1cb3eec7b77687876dfbba4e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_9d1e7206a1d805a0e6f7d72f37f5b38eaffec845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/mrzhou/MyWorkstation/AndroidStudioProjects/hotel-client/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_93fe9c552c2321b843602d5f72cea2aa01737bca/classes.dex" />
+    </item>
+
+</items>
